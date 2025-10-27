@@ -10,9 +10,22 @@
 
 ⭐ **Software + Datos = Decisiones Inteligentes** ⭐  
 🔍 Transformando datos en decisiones y código en soluciones.  
-💻 Estudiante de **Ingeniería en Software** y **Data-Driven Decision Specialist**, con experiencia en **C++, Java, Python y MySQL**.  
+💻 Estudiante de **Ingeniería en Software** y **Data-Driven Decision Specialist** 
 🚀 Apasionado por crear proyectos funcionales y con impacto real.  
+---
 
+## 💡 Habilidades
+
+### 🛠️ Habilidades Técnicas
+- **Programación:** Java, C++, C#, Python, 
+- **Bases de datos:** MySQL, SQL Developer, SQL Server  
+- **Sistemas:** Instalación de sistemas Windows  
+
+### 🤝 Habilidades Profesionales
+- Responsabilidad y puntualidad  
+- Trabajo en equipo y colaboración  
+- Adaptabilidad y resolución de problemas  
+- Comunicación efectiva
 ---
 
 ### ⚙️ &nbsp;GitHub Analytics
