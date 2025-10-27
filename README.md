@@ -9,9 +9,13 @@
 ## Sobre mí
 
 ⭐ **Software + Datos = Decisiones Inteligentes** ⭐  
-🔍 Transformando datos en decisiones y código en soluciones.  
-💻 Estudiante de **Ingeniería en Software** y **Data-Driven Decision Specialist** 
-🚀 Apasionado por crear proyectos funcionales y con impacto real.  
+
+<p style="font-size:14px; line-height:1.5;">
+🔍 Transformando datos en decisiones y código en soluciones.<br>
+💻 Estudiante de <b>Ingeniería en Software</b> y <b>Data-Driven Decision Specialist</b>.<br>
+🚀 Apasionado por crear proyectos funcionales y con impacto real.
+</p>
+
 ---
 
 ## 💡 Habilidades
