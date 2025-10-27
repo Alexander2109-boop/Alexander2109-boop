@@ -1,16 +1,23 @@
-## Hi there 👋
+<div align="center">
+<h1 align="center">Hola, soy Alexander Ynga Alay 👋</h1>
+</div>
 
-<!--
-**Alexander2109-boop/Alexander2109-boop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://res.cloudinary.com/dih4i5bcf/image/upload/v1761532112/banner_alexander_s5pmjw.png">
 
-Here are some ideas to get you started:
+[![LinkedIn Shield](https://img.shields.io/badge/LinkedIn-Perfil-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/alexander-ynga-alay-0b5543381)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Sobre mí
+
+⭐ **Software + Datos = Decisiones Inteligentes** ⭐  
+🔍 Transformando datos en decisiones y código en soluciones.  
+💻 Estudiante de **Ingeniería en Software** y **Data-Driven Decision Specialist**, con experiencia en **C++, Java, Python y MySQL**.  
+🚀 Apasionado por crear proyectos funcionales y con impacto real.  
+
+---
+
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Alexander2109-boop&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Alexander2109-boop&layout=compact&langs_count=8&theme=algolia"/>
+</p>
